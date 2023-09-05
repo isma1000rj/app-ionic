@@ -1,0 +1,7 @@
+{
+  "name": "meuAppLogin",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
